@@ -79,14 +79,14 @@ const romanch: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codedpool&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=codedpool&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=ffffff" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=codedpool&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedpool&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff&langs_count=8" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=codedpool&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff&langs_count=8" />
 
 </div>
 
