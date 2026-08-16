@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20romanch.me-8B5CF6?style=for-the-badge&logoColor=white)](https://romanch.me)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20romanch.dev-8B5CF6?style=for-the-badge&logoColor=white)](https://romanch.dev)
 [![GitHub followers](https://img.shields.io/github/followers/codedpool?style=for-the-badge&logo=github&color=06B6D4&labelColor=0D1117)](https://github.com/codedpool)
 [![Profile Views](https://komarev.com/ghpvc/?username=codedpool&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)](https://github.com/codedpool)
 
@@ -104,7 +104,7 @@ const romanch: Developer = {
 
 ### Let's connect
 
-[![Portfolio](https://img.shields.io/badge/romanch.me-%238B5CF6.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://romanch.me)
+[![Portfolio](https://img.shields.io/badge/romanch.dev-%238B5CF6.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://romanch.dev)
 
 *"The best code is the code that ships."*
 
